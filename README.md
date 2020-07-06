@@ -3,7 +3,7 @@ Vital damage calculations for a wizard in dungeons and dragons (5e).
 
 ## runAction.py
 This file contains helper functions
-| Name | Purpose |
+| Function Name | Purpose |
 |-|-|
 | fireBolt | return damage from Fire Bolt spell |
 | magicMissile | return damage from Magic Missile spell |
