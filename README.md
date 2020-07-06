@@ -11,6 +11,6 @@ This file contains helper functions
 | hit | determine if attack is a hit, miss, or crit |
 | eventGenerator | create 'n' castings of 's' spell |
 
-## sample plot
+## firstPlot.png
 ![help me obi-wan kenobi](https://github.com/alonzi/wizard/blob/master/firstPlot.png "Fix the binning and labels please!")
 
