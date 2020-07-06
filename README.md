@@ -12,5 +12,5 @@ This file contains helper functions
 | eventGenerator | create 'n' castings of 's' spell |
 
 ## sample plot
-![help me obi-wan kenobi]( "Fix the binning and labels please!")
+![help me obi-wan kenobi](https://github.com/alonzi/wizard/blob/master/firstPlot.png "Fix the binning and labels please!")
 
