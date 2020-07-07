@@ -1,0 +1,4 @@
+��Hello World
+
+This is just a test file in order to ensure that I understand the basics of Git Hub. It is important to note that Git Hub is a very useful resource and will help in opening up my professional career.
+
